@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">MFTI_Sample</string>
+    <string name="app_name">AndroidMipt</string>
+    <string name="email_label">Email</string>
+    <string name="email_placeholder">zubrilin.pf@phystech.edu</string>
+    <string name="password_label">Password</string>
+    <string name="sign_up_label">Sign Up For Free</string>
+    <string name="sign_up">SignUp</string>
+    <string name="sign_in_label">Login To Your Account</string>
+    <string name="sign_in">SignIn</string>
+    <string name="restaurant_label">Find Your Favorite Food</string>
+    <string name="restaurant_search_placeholder">Find Your Favorite Food</string>
+    <string name="username_placeholder">levapnilirbuz</string>
+    <string name="username_label">Username</string>
+    <string name="agreement_1">Keep Me Signed In</string>
+    <string name="agreement_2">Email Me About Special Pricing</string>
+    <string name="agreement_3">already have an account?</string>
+    <string name="agreement_4">Forgot Your Password?</string>
+    <string name="popular">Popular restaurants</string>
+    <string name="nearest">Nearest restaurants</string>
 </resources>
